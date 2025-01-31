@@ -83,5 +83,5 @@ npm run dev
 
 ## Live Demo
 
-
+https://navneetsingh04.github.io/Password-Generator/
 
