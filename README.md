@@ -62,13 +62,13 @@ To run this project locally, follow these steps:
 ### 1. Clone the repository 
 
 ```bash
-git clone https://github.com/your-username/password-generator-app.git
+git clone https://github.com/Navneetsingh04/Password-Generator
 
 ```
 ### 2. Install dependencies
 
 ```bash
-cd password-generator-app
+cd password-generator
 npm install
 
 ```
