@@ -2,7 +2,7 @@
 # Password Generator Application
 
 ## Overview
-A modern, user-friendly password generator built with React and Tailwind CSS. This application creates strong, random passwords based on user preferences, offering a sleek interface with smooth animations and visual feedback. Perfect for developers and security-conscious users who need quick access to secure passwords.A modern, user-friendly password generator built with React and Tailwind CSS. This application creates strong, random passwords based on user preferences, offering a sleek interface with smooth animations and visual feedback. Perfect for developers and security-conscious users who need quick access to secure passwords.
+A modern, user-friendly password generator built with React and Tailwind CSS. This application creates strong, random passwords based on user preferences, offering a sleek interface with smooth animations and visual feedback. Perfect for developers and security-conscious users who need quick access to secure passwords.
 
 
 
